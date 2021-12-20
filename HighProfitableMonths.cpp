@@ -1,3 +1,9 @@
+/*
+  Given an array of stock prices per month and a parameter k, find the number of profitable months. 
+  A profitable month is a range of k months where the stock prices are in increasing order.
+*/
+
+
 #include <iostream>
 #include <stack>
 #include <vector>
